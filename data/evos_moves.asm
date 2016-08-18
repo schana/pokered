@@ -232,7 +232,7 @@ Mon032_EvosMoves:
 Mon035_EvosMoves:
 ;CLEFAIRY
 ;Evolutions
-	db EV_ITEM,MOON_STONE,1,CLEFABLE
+	db EV_ITEM,THUNDER_STONE,1,CLEFABLE
 	db 0
 ;Learnset
 	db 13,SING
@@ -1319,7 +1319,7 @@ Mon139_EvosMoves:
 Mon039_EvosMoves:
 ;JIGGLYPUFF
 ;Evolutions
-	db EV_ITEM,MOON_STONE,1,WIGGLYTUFF
+	db EV_ITEM,THUNDER_STONE,1,WIGGLYTUFF
 	db 0
 ;Learnset
 	db 9,POUND
@@ -2050,7 +2050,7 @@ Mon020_EvosMoves:
 Mon033_EvosMoves:
 ;NIDORINO
 ;Evolutions
-	db EV_ITEM,MOON_STONE,1,NIDOKING
+	db EV_ITEM,THUNDER_STONE,1,NIDOKING
 	db 0
 ;Learnset
 	db 8,HORN_ATTACK
@@ -2064,7 +2064,7 @@ Mon033_EvosMoves:
 Mon030_EvosMoves:
 ;NIDORINA
 ;Evolutions
-	db EV_ITEM,MOON_STONE,1,NIDOQUEEN
+	db EV_ITEM,THUNDER_STONE,1,NIDOQUEEN
 	db 0
 ;Learnset
 	db 8,SCRATCH
